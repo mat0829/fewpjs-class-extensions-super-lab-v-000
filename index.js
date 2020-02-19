@@ -11,7 +11,7 @@ class Tree {
 }
 
 class Deciduous extends Tree {
-  constructor(name) {
+  constructor(species, name) {
     this.name = name
   }
 }
