@@ -17,6 +17,7 @@ class Deciduous extends Tree {
   }
   
   static definition() {
-    
+    return (
+      )
   }
 }
